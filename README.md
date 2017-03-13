@@ -1,5 +1,5 @@
 # tcp-traffic-analysis
-A tools for analyzing the traffic of TCP packages.
+A tool for analyzing the traffic of TCP packages.
 
 ## Usage
 
